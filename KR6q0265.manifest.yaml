@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0265_000.yaml, hash: 'sha256:d5781b004f512c48a9a174fb3712be7ec85e808c9f350b3b125d428634855aa9'}
+  - {seq: 0, filename: KR6q0265_000.yaml, hash: 'sha256:29c7c2539548bfbb52d696490f44c89cb23660a6aef7156b0b2c5560678212c6'}
   - {seq: 1, filename: KR6q0265_001.yaml, hash: 'sha256:1921121196b81f1f8cfaae910790246fae6f6b4d16a9722879f21af1972c3580'}
   - {seq: 2, filename: KR6q0265_002.yaml, hash: 'sha256:7c1128f299d32e38c4e8b3506ea794f5c09488e7f72507a9e9cf1ba950635457'}
   - {seq: 3, filename: KR6q0265_003.yaml, hash: 'sha256:45aefd692f8384ee8bdd4d35f8380c6f2512fb3c057a461dc7cfdd7bb1bfac4c'}
@@ -29,7 +29,7 @@ assets:
   - {seq: 5, filename: KR6q0265_005.yaml, hash: 'sha256:ab03898c7b8f15f9fc8241e4231834d6e02bd3f52411b693ac53e6415c90e57d'}
   - {seq: 6, filename: KR6q0265_006.yaml, hash: 'sha256:b8f76d16b8f60448fd7b5ae83146cb420b4405d1d2c4a3f27b0fe1af74cda43d'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0265_000.markers.yaml, hash: 'sha256:01f546736a8fba2d9ef4e461d0434a13b093797dbfc442922bc22bc74e9ca222'}
+  - {seq: 0, role: markers, filename: assets/KR6q0265_000.markers.yaml, hash: 'sha256:c85fef8e6a744eb667a60dfade2295b868770f7bfd207a5eb8b9c91ab9a66545'}
   - {seq: 1, role: markers, filename: assets/KR6q0265_001.markers.yaml, hash: 'sha256:3c491e3dc69d0a8e1f6df20305f33351726eabff99b4c3b8dc1926e5158eafa0'}
   - {seq: 2, role: markers, filename: assets/KR6q0265_002.markers.yaml, hash: 'sha256:996ca94ac89403f1dea0ba964c39f7b276d15bcb53268b0f4266876f60b6afb6'}
   - {seq: 3, role: markers, filename: assets/KR6q0265_003.markers.yaml, hash: 'sha256:9fcb74014819870d78de1588e2ac3b45f88066fb75f1b66576404af7707c26a3'}
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0265_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1318-A
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0265_X_000-mulu-2
     span:
-    - front
+    - body
     - 113
     - 113
   label: 續刊古尊宿語要目錄
@@ -5227,7 +5227,7 @@ table_of_contents:
   label: No. 1318-B
   type: mulu
   level: 1
-hash: sha256:466fa79e7f8a6ea75e1dbec54aac25485ce748842dada977644d7af2a86802b1
+hash: sha256:15f9516f2d999a46749ed828dc2a20e0500453b912e8976efbd18c6f91667f6a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
